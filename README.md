@@ -1,6 +1,7 @@
 # 💫 About Me:
 hello, my name is nima tarhani.<br>Final-year undergraduate student in Computer Engineering.<br>full stack ai vibe coder<br>
 
+<img width="1900" height="684" alt="Image" src="https://github.com/user-attachments/assets/de5abd9a-466f-4acd-ba1e-397eb38f4e58" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thealduiin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nima-tarhani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nima.tarhani@gmail.com) 
