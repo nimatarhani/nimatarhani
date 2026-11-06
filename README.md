@@ -1,7 +1,7 @@
 # 💫 About Me:
 hlo my name is nima tarhani<br>full stack vibe coder
 
-https://github.com/nimatarhani/nimatarhani/issues/1#issue-5779169251
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tealduiin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nima.tarhani@gmail.com) 
 
